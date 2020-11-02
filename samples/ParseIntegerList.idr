@@ -1,4 +1,4 @@
-module ParseInteger
+module ParseIntegerList
 
 import Oyster.Core
 
