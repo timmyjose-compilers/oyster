@@ -17,6 +17,12 @@ and install it using:
   $ make install
 ```
 
+To clean:
+
+```
+  $ make clean
+```
+
 ## Sample
 
 The `samples` directory contains some sample clients using the library. For these examples, you need to invoke Idris with the package passed in (after installing the package):
