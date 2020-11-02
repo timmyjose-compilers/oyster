@@ -1,0 +1,13 @@
+package oyster
+
+authors = "Timmy Jose"
+readme = "README.md"
+homepage = ""
+license = "The Unlicense (See LICENSE.md)"
+
+sourcedir = "src"
+
+modules = Oyster.Core,
+          Oyster.Helper
+
+depends = base
